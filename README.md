@@ -9,4 +9,6 @@ The first one, "loloish", was just meant to scratch an itch after playing the fi
 The second, "westernish", was an experiment with jumping + shooting mechanics, and might grow into something larger.
 The name comes from a strange connection in my mind with the old Gun.Smoke game, but is pretty tenuous.
 
-(Code pending.)
+===========================
+
+**N.B.** These rely on some assets provided by the playground and so will not work in the simulator as is.
